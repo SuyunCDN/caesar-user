@@ -44,10 +44,10 @@ setup(
         'factory-boy',
         'freezegun'
     ],
-    url='https://github.com/rq0net/caesar-user',
+    url='https://github.com/suyuncdn/caesar-user',
     license='MIT',
     author='Rabbit',
-    author_email='rq0net@gmail.com',
+    author_email='suyuncdn@gmail.com',
     description='Install Caesar User.',
     classifiers=[]
 
